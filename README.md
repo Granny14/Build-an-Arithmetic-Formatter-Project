@@ -1,12 +1,12 @@
 # Build-an-Arithmetic-Formatter-Project
 
-Arithmetic Arranger
-Description
-The Arithmetic Arranger is a Python function that takes a list of arithmetic problems and formats them vertically and side-by-side. This function is especially useful for displaying math problems in a clear and readable format. It supports addition and subtraction problems.
+# Arithmetic Arranger
+**Description**
+**The Arithmetic Arranger is a Python function that takes a list of arithmetic problems and formats them vertically and side-by-side. This function is especially useful for displaying math problems in a clear and readable format. It supports addition and subtraction problems.**
 
-Features
-Formats multiple arithmetic problems side-by-side.
-Ensures proper alignment of operands and operators.
+# Features
+- **Formats multiple arithmetic problems side-by-side.**
+- **Ensures proper alignment of operands and operators.**
 Provides an option to display the answers.
 Function Signature
 python
@@ -46,9 +46,7 @@ Copy code
 Installation
 To use this function, simply clone the repository and import the function into your Python script.
 
-bash
-Copy code
-git clone https://github.com/your-username/arithmetic-arranger.git
+git clone [https://github.com/your-username/arithmetic-arranger.git](https://github.com/Granny14/Build-an-Arithmetic-Formatter-Project.git)
 Running the Tests
 You can run the provided test cases to check the functionality of the arithmetic_arranger function.
 
